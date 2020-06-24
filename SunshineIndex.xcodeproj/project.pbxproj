@@ -13,6 +13,7 @@
 		C904B85F24A3C0E700760235 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C904B85E24A3C0E700760235 /* Assets.xcassets */; };
 		C904B86224A3C0E700760235 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C904B86124A3C0E700760235 /* Preview Assets.xcassets */; };
 		C904B86524A3C0E700760235 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C904B86324A3C0E700760235 /* LaunchScreen.storyboard */; };
+		C904B86D24A3C16300760235 /* sampleData.json in Resources */ = {isa = PBXBuildFile; fileRef = C904B86C24A3C16300760235 /* sampleData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C904B86124A3C0E700760235 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C904B86424A3C0E700760235 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C904B86624A3C0E700760235 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C904B86C24A3C16300760235 /* sampleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sampleData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				C904B85E24A3C0E700760235 /* Assets.xcassets */,
 				C904B86324A3C0E700760235 /* LaunchScreen.storyboard */,
 				C904B86624A3C0E700760235 /* Info.plist */,
+				C904B86C24A3C16300760235 /* sampleData.json */,
 				C904B86024A3C0E700760235 /* Preview Content */,
 			);
 			path = SunshineIndex;
@@ -136,6 +139,7 @@
 				C904B86524A3C0E700760235 /* LaunchScreen.storyboard in Resources */,
 				C904B86224A3C0E700760235 /* Preview Assets.xcassets in Resources */,
 				C904B85F24A3C0E700760235 /* Assets.xcassets in Resources */,
+				C904B86D24A3C16300760235 /* sampleData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
